@@ -1,12 +1,76 @@
-# React + Vite
+# NovaSphare
+Nova is an advanced AI-driven virtual assistant built on the MERN stack and powered by Gemini API, enabling real-time, multilingual voice interaction with intelligent response generation.
+---
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🤖 Nova - Your AI Virtual Assistant
 
-Currently, two official plugins are available:
+![Nova Screenshot](./Screenshot%202025-05-21%20182959.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Nova is your futuristic, AI-powered virtual assistant — built with **Gemini API** integration to deliver responsive and human-like conversations in **both Hindi and English**.
 
-## Expanding the ESLint configuration
+> "I'm Nova. Your Virtual Assistance — Advanced Version."
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🌟 Features
+
+- 🧠 **Gemini AI Integration** for smart conversations
+- 🎙️ Voice-based interaction in **Hindi and English**
+- ⚡ Instant responses for real-time feel
+- 💡 User-friendly interface with a futuristic design
+- 🌐 Fully deployed and accessible online
+
+---
+
+## 🧰 Tech Stack
+
+- Frontend: **React.js, HTML, CSS**
+- Backend: **Node.js, Express.js**
+- Database: **MongoDB**
+- AI Integration: **Gemini API**
+- Deployment: **Netlify**
+
+---
+
+## 🚀 How to Use
+
+1. Visit the deployed site (Netlify link here, if you have one).
+2. Click on the 🎤 **"Click here"** button.
+3. Start speaking in **English or Hindi** — Nova will handle it!
+4. Watch as Nova responds instantly like a real assistant.
+
+---
+
+## 📸 Demo
+
+Add  use a hosted  link.
+
+![Nova Demo]
+("https://raktimvirtualassistance.netlify.app")
+
+---
+
+## 👤 Author
+
+Developed by **Raktim Mondal** — a passionate front-end developer and AI enthusiast.
+
+---
+
+## 📜 License
+
+This project is not currently licensed. Feel free to explore and get inspired, but please don’t copy for commercial use.
+
+---
+
+## 🙌 Show Some ❤️
+
+If you like this project, feel free to:
+
+- ⭐ Star the repo
+- 🔁  Fork it
+- 🧠 Use it to inspire your own AI projects
+
+---
+
+> “AI is not the future. It’s the **present** — meet Nova.”
+
